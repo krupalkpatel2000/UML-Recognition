@@ -30,3 +30,6 @@ C:\Users\kk\Desktop\trial\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\GenerateRe
 C:\Users\kk\Desktop\trial\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\kk\Desktop\trial\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\Uml_Recognizer.ChooseDiagramDialogBox.resources
 C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\Uml_Recognizer.ChooseDiagramDialogBox.resources
+C:\Users\kk\Desktop\vv\UML_Recognition\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\Uml_Recognizer.csproj.ResolveComReference.cache
+C:\Users\kk\Desktop\vv\UML_Recognition\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\Uml_Recognizer.exe
+C:\Users\kk\Desktop\vv\UML_Recognition\Uml_Recognizer\Uml_Recognizer\obj\x86\Debug\Uml_Recognizer.pdb

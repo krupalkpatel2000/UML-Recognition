@@ -131,7 +131,7 @@ namespace Uml_Recognizer
                             MessageBox.Show("No Gesture");
                     break;
                 
-                    case 4: case 5: case 6: case 7: case 8:
+                    case 4: case 5: case 6: case 7: case 8: case 9:
                         if (useCaseDiagram.RecognizeActor(drawingArea.Ink.CustomStrokes[getCollectionName()]))
                             MessageBox.Show("Actor");
                         else
@@ -139,7 +139,7 @@ namespace Uml_Recognizer
                     break;
                     
                     default:
-                        MessageBox.Show("No Gesture");
+                            MessageBox.Show("No Gesture");
                     break;
                 }
 
