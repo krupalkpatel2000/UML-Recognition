@@ -1,0 +1,12 @@
+C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\UMLShapes\bin\Debug\UMLShapes.dll
+C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\UMLShapes\bin\Debug\UMLShapes.pdb
+C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\UMLShapes\bin\Debug\Siger.dll
+C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\UMLShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\UMLShapes\obj\Debug\UMLShapes.dll
+C:\Users\kk\Desktop\UML_Recognition\Uml_Recognizer\UMLShapes\obj\Debug\UMLShapes.pdb
+C:\Users\kk\Desktop\trial\Uml_Recognizer\UMLShapes\bin\Debug\UMLShapes.dll
+C:\Users\kk\Desktop\trial\Uml_Recognizer\UMLShapes\bin\Debug\UMLShapes.pdb
+C:\Users\kk\Desktop\trial\Uml_Recognizer\UMLShapes\bin\Debug\Siger.dll
+C:\Users\kk\Desktop\trial\Uml_Recognizer\UMLShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kk\Desktop\trial\Uml_Recognizer\UMLShapes\obj\Debug\UMLShapes.dll
+C:\Users\kk\Desktop\trial\Uml_Recognizer\UMLShapes\obj\Debug\UMLShapes.pdb
